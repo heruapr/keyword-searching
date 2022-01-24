@@ -13,7 +13,7 @@ public class KeywordSearch {
 
         String key = "mantan";
 
-        // original data from the riddle, please do not modify this metric
+        // oriiiiii
 
         // char arr[][] =
         // {
@@ -51,7 +51,7 @@ public class KeywordSearch {
                 { 'm', 'm', 'a', 'n', 't', 'a', 'a', 'a', 'a', 't', 'n', 'n', 'm', 'n', 'n', 'n', 'n', 'n', 'n', 'n' },
                 { 'm', 'n', 'n', 'm', 'a', 'n', 't', 'a', 'n', 'a', 'm', 't', 'a', 'n', 'a', 'n', 'a', 'n', 't', 'a' },
                 { 'a', 'a', 'n', 'n', 'a', 'a', 'm', 'a', 't', 'a', 'n', 'n', 'a', 'a', 'm', 'n', 'm', 'a', 'n', 'n' },
-                { 'm', 'n', 'n', 'm', 'a', 't', 'a', 'n', 't', 't', 'n', 'a', 'm', 'm', 'm', 'a', 't', 'a', 't', 'a' },
+                { 'm', 'n', 'n', 'm', 'a', 'n', 't', 'a', 'n', 't', 'n', 'a', 'm', 'm', 'm', 'a', 't', 'a', 't', 'a' },
                 { 't', 't', 'a', 't', 'a', 'n', 'n', 'a', 'n', 'a', 'n', 'n', 'a', 'a', 'a', 'a', 'm', 'n', 'm', 'a' },
                 { 'm', 'n', 'n', 't', 'a', 'n', 't', 'n', 'a', 't', 't', 'a', 'n', 'n', 'n', 't', 'a', 't', 'm', 't' },
                 { 't', 'n', 't', 'm', 't', 'm', 'n', 't', 'n', 't', 'a', 'n', 'n', 'a', 'a', 'a', 't', 'n', 'a', 't' },
