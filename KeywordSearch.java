@@ -13,7 +13,7 @@ public class KeywordSearch {
 
         String key = "mantan";
 
-        // real data from the book, do not modify this
+        // original data from the riddle, please do not modify this metric
 
         // char arr[][] =
         // {
